@@ -21,4 +21,4 @@ error-screenshots/
 webpack.generated.js
 
 # For privacy
-META-INF/resources/
+resources/application.properties
