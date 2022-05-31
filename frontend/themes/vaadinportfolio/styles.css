@@ -1,0 +1,8 @@
+@import url('./main-layout.css');
+@import url('./views/home-view.css');
+@import url('./views/informations-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+@import url('@fontsource/quicksand');    html {
+--lumo-font-family: Quicksand;
+
+    }
